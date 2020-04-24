@@ -3,7 +3,7 @@ This is a group video chat web app that uses [Agora.io](https://www.agora.io) to
 
 ## Pre Requisites
 - A simple web server (I use [XAMPP](https://www.apachefriends.org/index.html))
-- An SSL cert or way to have an https connection (I use [ngrok](https://ngrok.com))
+- An SSL cert or way to have an https connection (I use [letsencrypt](https://letsencrypt.org/m))
 - A developer account with [Agora.io](https://www.agora.io)
 - An understanding of HTML/CSS/JS 
 - An understand of how Bootstrap and JQuery function _(minimal knowledge needed)_
